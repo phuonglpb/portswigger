@@ -13,7 +13,7 @@ To solve the lab, log in as the administrator user.
 ```
 Hint
 ```
-This lab uses an Oracle database. For more information, see the [SQL injection cheat sheet][https://portswigger.net/web-security/sql-injection/cheat-sheet].
+This lab uses an Oracle database. For more information, see the [SQL injection cheat sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet).
 
 ### Solution
 
