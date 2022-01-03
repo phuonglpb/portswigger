@@ -50,3 +50,9 @@ To solve the lab, log in as the administrator user.
 18. Continue this process testing offset 3, 4, and so on, until you have the whole password.
 
 19. In your browser, click "My account" to open the login page. Use the password to log in as the <code>administrator</code> user.
+
+
+#### Note
+```
+For more advanced users, the solution described here could be made more elegant in various ways. For example, instead of iterating over every character, you could perform a binary search of the character space. Or you could create a single Intruder attack with two payload positions and the "Cluster bomb" attack type, and work through all permutations of offsets and character values.
+```
