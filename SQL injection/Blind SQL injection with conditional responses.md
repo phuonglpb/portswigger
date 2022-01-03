@@ -53,6 +53,5 @@ To solve the lab, log in as the administrator user.
 
 
 #### Note
-```
+
 > For more advanced users, the solution described here could be made more elegant in various ways. For example, instead of iterating over every character, you could perform a binary search of the character space. Or you could create a single Intruder attack with two payload positions and the "Cluster bomb" attack type, and work through all permutations of offsets and character values.
-```
